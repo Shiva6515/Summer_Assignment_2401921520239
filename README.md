@@ -7,7 +7,7 @@ This repository contains my daily LeetCode solutions organized week-by-week as p
 ## 👤 Student Details
 
 | Field |                          |               | Details |
-| **Name** |                       |               | Shiva6515 |
+| **Name** |                       |               | Shiva Singh |
 | **Enrollment No.** |             |               | 2401921520239 |
 | **Language Used** |              |               | Java |
 | **Platform** |                   |               | [LeetCode]((https://leetcode.com/u/Shiva6515/)) |
